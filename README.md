@@ -12,7 +12,7 @@ Here’s a quick preview of the calculator UI:
 ![image](https://github.com/user-attachments/assets/e53a9113-ef2b-4724-865e-c57f85b3ace9)
 
 
-**Input:
+**Input:**
 **
 ![image](https://github.com/user-attachments/assets/48858df7-d039-4717-a0a7-dbe88309a06c)
 
