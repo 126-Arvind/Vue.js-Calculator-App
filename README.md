@@ -10,7 +10,15 @@ This is a Vue.js calculator application that allows users to perform basic arith
 Here’s a quick preview of the calculator UI:
 
 ![image](https://github.com/user-attachments/assets/e53a9113-ef2b-4724-865e-c57f85b3ace9)
+
+
+**Input:
+**
 ![image](https://github.com/user-attachments/assets/48858df7-d039-4717-a0a7-dbe88309a06c)
+
+**Output:**
+
+
 ![image](https://github.com/user-attachments/assets/dadc2aa6-c772-4d92-bb9e-9c94dd5b0150)
 
 
