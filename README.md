@@ -1,11 +1,11 @@
 
-🧮 My Calculator Application
+**🧮 My Calculator Application**
 
-✨ Description
+**✨ Description**
 
 This is a Vue.js calculator application that allows users to perform basic arithmetic operations in a user-friendly interface. The calculator handles addition, subtraction, multiplication, and division, providing real-time feedback on calculations.
 
-🔍 Preview
+ **🔍 Preview**
 
 Here’s a quick preview of the calculator UI:
 
@@ -20,7 +20,7 @@ Here’s a quick preview of the calculator UI:
 ![image](https://github.com/user-attachments/assets/dadc2aa6-c772-4d92-bb9e-9c94dd5b0150)
 
 
-🔧 Features
+ **🔧 Features**
 
 🔢 User-Friendly Interface: Simple layout with buttons for easy input.
 
@@ -33,7 +33,7 @@ Here’s a quick preview of the calculator UI:
 🧹 Clear Function: Easily reset the calculator.
 
 
-🛠️ Built With
+**🛠️ Built With**
 
 Vue.js 3: Modern JavaScript framework for building interactive UIs.
 
@@ -43,7 +43,7 @@ JavaScript (ES6): Core logic for arithmetic calculations.
 
 
 
-🚀 Usage
+**🚀 Usage**
 
 Input Values: Click on the numbers and operators to build your calculation.
 
@@ -52,7 +52,7 @@ Calculate: Press the = button to evaluate the expression.
 Clear Input: Use the C button to reset the calculator or <-- to remove the last input.
 
 
-💡 How It Works
+**💡 How It Works**
 
 Reactive Display: The calculator display is updated reactively as users click buttons.
 
